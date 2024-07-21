@@ -1,0 +1,33 @@
+PROMPTS:
+
+Faça um texto de introdução para um ebook chamado "CSS: Guia de Introdução de Estilos", sobre CSS, liste os principais tópicos dinamicamente, em um nível básico e bem resumido
+
+---------------------------------------------------------------------------------
+
+faça um texto para ebook, com foco em CSS, listando os principais seletores CSS com exemplos em código
+
+{REGRAS}
+>Explique sempre de uma maneira simples
+>Deixe o texto enxuto
+>Sempre traga exemplos de código em contextos reais 
+>Sempre deixe um título sugestivo por tópico 
+
+---------------------------------------------------------------------------------
+
+faça um texto para ebook, com foco em CSS, sobre o tópico "Layout e Design Responsivo"
+
+{REGRAS}
+>Explique sempre de uma maneira simples
+>Deixe o texto enxuto
+>Sempre traga exemplos de código em contextos reais 
+>Sempre deixe um título sugestivo por tópico 
+
+---------------------------------------------------------------------------------
+
+faça um texto para ebook, com foco em CSS, sobre o tópico "Estilizando Texto, Fontes e Fundos"
+
+{REGRAS}
+>Explique sempre de uma maneira simples
+>Deixe o texto enxuto
+>Sempre traga exemplos de código em contextos reais 
+>Sempre deixe um título sugestivo por tópico 
